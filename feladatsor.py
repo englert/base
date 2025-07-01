@@ -1,7 +1,7 @@
 # 1. -------------------------- (2 pont)
 def maradek(szam1, szam2):
     ''' A függvény visszatér a szam1 és szam2 hányadosának maradékával.
-    Nullával való osztás esetén térjen vissza None-nal.
+    Mivel a nullával való osztás nincs értelmezve ezért ha szam2 egyenlő nullával akkor térjen vissza None-nal.
     '''
 
 
