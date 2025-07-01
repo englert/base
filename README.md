@@ -8,9 +8,10 @@
 5. Nyisd meg a Thonny vagy a vscode program segítségével a feladatsor.py fájlt.
 6. A feladatsor.py-ban lévő feladatokat oldd meg.
 7. Rendszeresen ments.
-8. Egy egy függvény definiálása után futtasd meg a pytest-et és ellenőrizd a munkádat.
-9. A feladat beadásához a feladatsor.py fájlt töltsd fel ebbe a github repositoryba.
-10. Ne felejtsd el a Commit gomb megnyomását.
+8. A test_feladatsor.py tartalmát **ne** változtasd meg!
+9. Egy egy függvény definiálása után futtasd meg a pytest-et és ellenőrizd a munkádat.
+10. A feladat beadásához a feladatsor.py fájlt töltsd fel ebbe a github repositoryba.
+11. Ne felejtsd el a Commit gomb megnyomását.
 
 Ha még nincs pytest letöltve a gépedre akkor:
 
