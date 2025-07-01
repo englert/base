@@ -81,9 +81,6 @@ def szorzat(lista):
 # 12. 13. 14. -------------------------- 
 class Teglalap:
     '''
-    Feladat: Téglalap osztály definiálása. 
-    [Objektumorientált programozás]
-    Hozz létre egy osztályt Teglalap néven.
     A Teglalap osztály lehetővé teszi a téglalap oldalhosszúságainak tárolását.
     ---- 12. -------------------------- 
     A Teglalap osztály rendelkezik egy kerulet() nevü metódussal,   (2 pont) 
@@ -98,7 +95,7 @@ class Teglalap:
         amely az osztály segítségével létrehozott objektum metódusaként 
             visszaadja az adott objektum átfogóját.
     '''
-    ... # Itt kell definiálni a Teglalap osztályt és a metódusokat
+    
 
 
 # 15. -------------------------- (2 pont)
