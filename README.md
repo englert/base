@@ -10,15 +10,16 @@
 7. Rendszeresen ments.
 8. Egy egy függvény definiálása után futtasd meg a pytest-et és ellenőrizd a munkádat.
 9. A feladat beadásához a feladatsor.py fájlt töltsd fel ebbe a github repositoryba.
-10.Ne felejtsd el a Commit gomb megnyomását.
+10. Ne felejtsd el a Commit gomb megnyomását.
 
 Ha még nincs pytest letöltve a gépedre akkor:
 
-pip install pytest, vagy
-python -m pip install pytest, vagy
-python3 -m pip install pytest
+    pip install pytest, vagy
+    python -m pip install pytest, vagy
+    python3 -m pip install pytest
 
 A pytest futtatása:
-pytest, vagy
-python -m pytest, vagy
-python3 -m pytest
+
+    pytest, vagy
+    python -m pytest, vagy
+    python3 -m pytest
